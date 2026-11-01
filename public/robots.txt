@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://la32casino.vercel.app/sitemap.xml
