@@ -8,6 +8,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="dark bg-[#0f0a14]">
       <head>
+        <meta name="yandex-verification" content="8b64b3c0f45d8619" />
         <meta charSet="utf-8" />
         <title>La Casino Официальный Сайт | Ля Казино Зеркало Рабочее Вход и Бонусы 2026</title>
         <meta
